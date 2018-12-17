@@ -1,0 +1,4 @@
+Controllers 
+With traditional web frameworks, incoming URLs are typically mapped to files on disk. 
+Web-based MVC frameworks map URLs to server code in a slightly different way.  Instead of mapping incoming URLs to files, they instead map URLs to methods on classes.  These classes are called "Controllers" and they are responsible for processing incoming HTTP requests, handling user input, retrieving and saving data, and determining the response to send back to the client (display HTML, download a file, redirect to a different URL, etc). 
+ 
